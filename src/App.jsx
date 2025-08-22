@@ -195,9 +195,9 @@ function Hero() {
           <a href={data.github} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 rounded-xl px-4 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition">
             <Github className="w-4 h-4" /> GitHub
           </a>
-                          <a href={data.cvUrl} download="CV_Mohamed_Idzim.pdf" className="inline-flex items-center gap-2 rounded-xl px-4 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition">
-                  <Download className="w-4 h-4" /> CV (PDF)
-                </a>
+                                            <a href={data.cvUrl} download="CV_Mohamed_Idzim_2025.pdf" className="inline-flex items-center gap-2 rounded-xl px-4 py-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition">
+                    <Download className="w-4 h-4" /> CV (PDF)
+                  </a>
         </div>
         
         <div className="mt-4 flex items-center justify-center gap-3 text-sm text-slate-500 dark:text-slate-400">
@@ -390,7 +390,7 @@ function Contact() {
                 <a href={`mailto:${data.email}?subject=Opportunité d'alternance - Portfolio Mohamed Idzim`} className="w-full inline-flex items-center justify-center gap-2 rounded-xl px-6 py-3 bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900 hover:bg-slate-800 dark:hover:bg-slate-200 transition font-medium">
                   <Mail className="w-4 h-4" /> Envoyer un email
                 </a>
-                <a href={data.cvUrl} download="CV_Mohamed_Idzim.pdf" className="w-full inline-flex items-center justify-center gap-2 rounded-xl px-6 py-3 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition font-medium">
+                <a href={data.cvUrl} download="CV_Mohamed_Idzim_2025.pdf" className="w-full inline-flex items-center justify-center gap-2 rounded-xl px-6 py-3 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-700 transition font-medium">
                   <Download className="w-4 h-4" /> Télécharger mon CV
                 </a>
               </div>
