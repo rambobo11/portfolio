@@ -9,7 +9,7 @@ const data = {
   email: "mohamedidzim11@gmail.com",
   linkedin: "https://www.linkedin.com/in/mohamedidzim/",
   github: "https://github.com/rambobo11",
-  cvUrl: "https://drive.google.com/uc?export=download&id=1LVNUbHEFKOy5TWB-MHvIgkLnoyhTpZem",
+  cvUrl: "https://drive.google.com/uc?export=download&id=1b_tcewPzBGBRU5uQB4kyCTYsJ_Vznmeg",
   summary: "Étudiant à l'ESGI (Master Management & Conseil des Systèmes d'Information). Je cherche une alternance pour contribuer à des projets SI et apporter ma polyvalence technique et organisationnelle à votre équipe.",
   
   skills: {
